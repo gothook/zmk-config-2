@@ -25,7 +25,7 @@
 
     default_layer {
       bindings = <
-                    &tog ARROW   &bootloader    &kp N1
+                    &kp N0   &bootloader    &kp N1
                     &kp N4   &kp N5     &kp N6
       >;
     };
