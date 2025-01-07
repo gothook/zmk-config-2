@@ -20,6 +20,6 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: tester_xiao
+    shield: enput6
   - board: seeeduino_xiao_ble
     shield: settings_reset
