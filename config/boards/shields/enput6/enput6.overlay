@@ -4,4 +4,4 @@
  * SPDX-License-Identifier: MIT
  */
 
- #include "eternal_keypad.dtsi"
+ #include "enput6.dtsi"
