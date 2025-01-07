@@ -34,14 +34,14 @@
         display-name = "ARROW";
       bindings = <
                     &to FUNC   &bt BT_CLR    &kp N2
-                    &kp N4   &bootloader     &kp N6
+                    &kp N4   &kp A     &kp N6
       >;
     };
 
     function_layer {
         display-name = "FUNC";
       bindings = <
-                    &to BASE   &bootloader    &kp N3
+                    &to BASE   &kp B    &kp N3
                     &kp N4   &kp N5     &kp N6
       >;
     };
