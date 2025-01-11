@@ -26,7 +26,7 @@
     default_layer {
       bindings = <
                     &to ARROW   &kp N3    &kp N3
-                    &kp N4   &kp N5     &kp N6
+                    &kp N4   &rgb_ug RGB_SAD     &rgb_ug RGB_HUD
       >;
     };
 
